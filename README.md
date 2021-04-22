@@ -4,7 +4,7 @@
 
 
 ## Projekty
-### Parki (projekt grupowy)
+### [Parki (projekt grupowy)](https://github.com/nefetorve/parki/blob/main/parki.ipynb)
 #### 1. Cel projektu
 <div style="text-align: justify">  Celem projektu jest odnalezienie optymalnej trasy wycieczki, obejmującej jak największą liczbę parków, dla osoby przebywającej we Wrocławiu (turysty) w ciągu jednego dnia (maksymalnie 14h). Podczas rozwiązywania problemu należy wziąć pod uwagę czas podróży środkiem transportu MPK oraz czas spędzony w parku. Założenia projektu nie uwzględniają przerw w wycieczce ani utrudnień komunikacyjnych (np. korków). Powierzchnia parków zostanie opisana na podstawie dostępnych informacji w Internecie oraz za pomocą map Google. Czas spędzony w parku zostanie oszacowany na podstawie dostępnych narzędzi (mapy Google) oraz własnej wiedzy.
 </div>
@@ -54,7 +54,7 @@ Repozytorium nie zostało udostępnione do podglądu ze względu na zawartość 
 ![Screenshot wykresu słupkowego](media/albion_BladeWorX.png)
 
 
-### Projekt telco-customer-churn (projekt własny)
+### [Projekt telco-customer-churn (projekt własny)](https://github.com/nefetorve/telco-projekt/blob/main/160954_DataScience_projekt.ipynb)
 Motywacją utworzenia projektu było otrzymanie większej oceny z kursu Data Science. 
 #### 1. Cel projektu
 <div style="text-align: justify">  Problem badawczy dotyczy przewidywania zachowania klientów. Na podstawie zebranych danych, należy sprawdzić jakie czynniki sprawiają, że klienci rezygnują z usług danej firmy.
@@ -132,7 +132,7 @@ Jeśli firma zmieni oferty i zastosuje się do wyników analizy to przełoży si
 Dla drzew decyzyjnych można stwierdzić, że najlepszy okazał się algorytm J48 (C4.5) w przypadku “use training set”. W przypadku walidacji skośnej można stwierdzić, że algorytmy J48 oraz REPTree zachowały się podobnie.
 Głównie odchodzą starsze i młodsze osoby, które mają umowę month-to-month. 
 
-### Tłumaczenie tekstu z Coursera (projekt własny)
+### [Tłumaczenie tekstu z Coursera (projekt własny)](https://github.com/nefetorve/Translate_Coursera/blob/master/main.py)
 #### 1. Cel projektu
 Celem projektu jest zamiana tekstu w języku angielskim na język polski, żeby móc zrozumieć dokładniej przekaz kursu prowadzonego w języku angielskim. Tekst jest w formacie .vtt, więc z łatwością można go dołączyć do filmu.
 
