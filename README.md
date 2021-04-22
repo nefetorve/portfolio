@@ -108,9 +108,10 @@ Zadanie, które zostały wykonane to, m.in:
 Projekt nie został udostępniony.
 
 #### 4. Wnioski 
-####Z regresji liniowej można wywnioskować, że: 
+Z regresji liniowej można wywnioskować, że: 
 * Najbardziej znaczącymi parametrami są decydującymi o zostaniu/odejściu klienta są: InternetService, OnlineSecurity, Contract.
-#### Z drzew wyszły warunki, gdzie najwięcej klientów rezygnuje. Wyglądają one następująco:
+
+Z drzew wyszły warunki, gdzie najwięcej klientów rezygnuje. Wyglądają one następująco:
 * Klienci, którzy płacą za usługi co miesiąc są grupą w której są składane wypowiedzenia od umowy. 
 * Najczęściej rezygnują osoby, które:
   * nie mają nikogo na utrzymaniu,
