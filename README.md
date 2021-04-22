@@ -152,6 +152,6 @@ Opis kroków:
 ![Działanie_programu](media/translate.png)
 ![Plik_pl](media/translate_2.png)
 
-#### 2. Zawartość repozytorium
+#### 3. Zawartość repozytorium
 Repozytorium zostało udostępnione. Tłumaczenie nie jest idealne, jednak na potrzeby własne jest wystarczające.
 
